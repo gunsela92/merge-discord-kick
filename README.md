@@ -18,7 +18,13 @@ Create a `config.json` file from example
 
 **Then**
 
-`node .` ***or*** `node index.js`
+    node .
+
+ 
+
+***or*** 
+
+    node index.js
 
   
 
